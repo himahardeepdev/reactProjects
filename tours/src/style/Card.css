@@ -1,0 +1,50 @@
+.card{
+    width: 500px;
+    margin: 10px auto;
+    margin-bottom: 50px;
+    background-color: white;
+    box-shadow: 3px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card-details{
+    background-color: white;
+    margin-left: 0px;
+    padding-left: 10px;
+}
+
+.card-image{
+    width: 500px;
+    height: 300px;
+}
+
+.card-name-price{
+    padding: 10px;
+    padding-bottom: 0px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.card-info{
+    
+    margin-right: 10px;
+    padding: 20px;
+}
+
+.show-more{
+    border: transparent;
+    color: rgb(63, 60, 246);
+    background-color: white;
+    margin-left: 5px;
+    text-decoration: underline;
+}
+
+.btn-not-interested{
+    width: 200px;
+    border: solid red 1px;
+    height: 30px;
+    border-radius: 10px;
+    color: rgb(202, 54, 54);
+    background-color: white;
+    margin-left: 150px;
+    margin-bottom: 30px;
+}

@@ -1,0 +1,19 @@
+
+
+.underline-custom {
+    margin-top: 20px;
+    position: relative;
+    display: inline-block; /* ensures it behaves like text */
+    padding-bottom: 4px; /* space between text and underline */
+  }
+  
+  .underline-custom::after {
+    content: '';
+    position: absolute;
+    left: 10%;
+    bottom: 0;
+    width: 80%; /* underline width */
+    height: 2px; /* underline thickness */
+    background-color: rgb(83, 83, 252); /* underline color */
+  }
+  

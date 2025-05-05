@@ -1,0 +1,22 @@
+
+.no-tours{
+    text-align: center;
+}
+
+.title-no-tours{
+    font-size: xx-large;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    margin-top: 50px;
+}
+
+.btn-no-tour{
+    color: white;
+    background-color: rgb(60, 60, 230);
+    width: 100px;
+    border: transparent;
+    height: 20px;
+    border-radius: 5px;
+    margin: 30px;
+}
