@@ -1,0 +1,17 @@
+.image{
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+}
+
+.article{
+   width: 100%;
+    display: flex;
+    margin: 20px 0px;
+    margin-bottom: 5px;
+    border-bottom: black solid 1px;
+}
+
+.person_details{
+    margin: 20px 0px 10px 20px;
+}
